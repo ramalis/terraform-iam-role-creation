@@ -2,7 +2,7 @@
 
 This will create the following resources..
 
-9 roles 
+Creating 9 roles 
 
 Attaching 3 AWS managed polices in various roles 
 
